@@ -1,0 +1,12 @@
+.prettierignore
+.prettierrc
+*.sh
+*.svg
+*.ico
+*.css
+.husky/
+.gitignore
+package-lock.json
+package.json
+tsconfig.json
+README.md
